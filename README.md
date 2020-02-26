@@ -12,7 +12,7 @@ Every ecommerce website needs to establish contact with their customers. General
 <li>Delayed response</li>
 </ul>
 
-f bussinesses need to establish a seamless connection with customers, this Magento 2 Contact Form will be an ideal solution. This free extension offer an advanced contact form that replaces the default contact form.
+If bussinesses need to establish a seamless connection with customers, this Magento 2 Contact Form will be an ideal solution. This free extension offer an advanced contact form that replaces the default contact form.
 
 ## Build Long-Term Relationship Between Merchant & Customer
 
